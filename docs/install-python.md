@@ -4,6 +4,7 @@ Total time: 5-10 minutes
 
 ## Overview
 
+- [Step 0: Prepare Your Workspace (Optional)](#step-0-prepare-your-workspace-optional)
 - [Step 1: Download the installer](#step-1-download-the-installer)
 - [Step 2: Run the installer](#step-2-run-the-installer)
 - [Step 3: Select correct options](#step-3-select-correct-options)
@@ -13,8 +14,9 @@ Total time: 5-10 minutes
 - [Step 7: Verify the installation](#step-7-verify-the-installation)
 - [Step 8: Disable path length limit](#step-8-disable-path-length-limit)
   - [_Python installation complete!_](#python-installation-complete)
-- [Step 9: Play around with Python](#step-9-play-around-with-python)
-  - [More to copy-paste and try out](#more-to-copy-paste-and-try-out)
+- [Step 9: Try out some Python](#step-9-try-out-some-python)
+  - [Keyboard shortcuts](#keyboard-shortcuts)
+  - [More to try using copy-paste](#more-to-try-using-copy-paste)
 
 ## Step 0: Prepare Your Workspace (Optional)
 
@@ -86,7 +88,7 @@ Switch back to the Python Installer and click "Disable path length limit".
 
 ### _Python installation complete!_
 
-## Step 9: Try out some Python 
+## Step 9: Try out some Python
 
 Close the installer.
 
