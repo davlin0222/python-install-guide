@@ -16,6 +16,12 @@ Total time: 5-10 minutes
 - [Step 9: Play around with Python](#step-9-play-around-with-python)
   - [More to copy-paste and try out](#more-to-copy-paste-and-try-out)
 
+## Step 0: Prepare Your Workspace (Optional)
+
+Place this guide on one side of your screen by pressing: Windows key + Right Arrow.
+
+![This guide opened to the side of the screen](assets/install-python/0.png)
+
 ## Step 1: Download the installer
 
 Open <a href="https://www.python.org/downloads/windows/" target="_blank">Python's official website - https://www.python.org/downloads/windows/</a>
@@ -46,7 +52,9 @@ Check both checkboxes at the bottom.
 
 ## Step 5: Wait for installation (2-5 minutes)
 
-Don't click on any more buttons once the installer finishes. It's not a problem if you do. It's just good to check the installation worked before moving on.
+**Don't click on any buttons after the installer finishes.**
+
+(Extra info: We'll continue from this screen in step number 8. It's not a problem if you clicked something. It's just good to check the installation worked before moving on.)
 
 ![Python Installer - Progress bar + Pause symbol](assets/install-python/5.png)
 
@@ -54,7 +62,7 @@ Don't click on any more buttons once the installer finishes. It's not a problem 
 
 Open Windows search.
 
-Find and open "Terminal".
+Find and open `Terminal`.
 
 ![Windows search - Terminal](assets/install-python/7.png)
 
@@ -66,7 +74,7 @@ Type `python --version` and hit Enter.
 
 ![Terminal - Python Version](assets/install-python/9.png)
 
-The output should be "Python" followed by the version if the installation was successful.
+The output should be "Python" followed by the version. This indicates that the installation was fully successful.
 
 ## Step 8: Disable path length limit
 
@@ -78,7 +86,7 @@ Switch back to the Python Installer and click "Disable path length limit".
 
 ### _Python installation complete!_
 
-## Step 9: Play around with Python
+## Step 9: Try out some Python 
 
 Close the installer.
 
@@ -86,11 +94,11 @@ Try out writing some Python code in Python's Interactive Shell.
 
 Type `python` and hit Enter.
 
-To exit, type `exit()` and hit Enter.
+To exit, type `exit()` and hit Enter (and close the terminal).
 
 ![Example usage of the Python Interactive Shell](assets/install-python/11.png)
 
-Keyboard shortcuts:
+### Keyboard shortcuts
 
 - **Ctrl + D** – Exit the Python Interactive Shell
 - **Ctrl + C** – Interrupt the current running command
@@ -98,7 +106,7 @@ Keyboard shortcuts:
 - **Up / Down Arrow** – Navigate through command history
 - **Tab** – Autocomplete variable, function, or module names
 
-### More to copy-paste and try out
+### More to try using copy-paste
 
 Level 1
 
