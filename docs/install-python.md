@@ -18,7 +18,7 @@ Total time: 5-10 minutes
 
 ## Step 1: Download the installer
 
-Open [Python Releases for Windows - https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/){:target="_blank"}
+Open <a href="https://www.python.org/downloads/windows/" target="_blank">Python's official website - https://www.python.org/downloads/windows/</a>
 
 Download the 64-bit Windows Installer (under Stable Releases).
 
