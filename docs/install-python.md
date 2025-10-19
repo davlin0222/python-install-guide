@@ -18,7 +18,7 @@ Total time: 5-10 minutes
 
 ## Step 1: Download the installer
 
-Open [Python Releases for Windows - https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
+Open [Python Releases for Windows - https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/){:target="_blank"}
 
 Download the 64-bit Windows Installer (under Stable Releases).
 
@@ -94,7 +94,7 @@ Keyboard shortcuts:
 
 - **Ctrl + D** – Exit the Python Interactive Shell
 - **Ctrl + C** – Interrupt the current running command
-- **Ctrl + L** – Clear the screen (Linux/macOS)
+- **Ctrl + L** – Clear the screen
 - **Up / Down Arrow** – Navigate through command history
 - **Tab** – Autocomplete variable, function, or module names
 
