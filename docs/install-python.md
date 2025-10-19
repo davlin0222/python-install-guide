@@ -10,7 +10,15 @@ Total time: 5-10 minutes
 
 - Step 3: Select correct options
 
-- ...
+- Step 4: Click "Install Now"
+
+- Step 5: Wait for installation
+
+- Step 6: Open Windows Terminal
+
+- Step 7: Verify the installation
+
+- Step 8: Optional but recommended
 
 ## Step 1: Download the installer
 
@@ -46,7 +54,7 @@ Click yes:
 
 ## Step 5: Wait for installation
 
-Don't click on any more buttons once the installer finishes. (It's not a problem if you do. It's just good to check the installation worked before moving on). 
+Don't click on any more buttons once the installer finishes. (It's not a problem if you do. It's just good to check the installation worked before moving on).
 
 ![Python Installer - Progress bar](assets/install-python/5.png)
 
@@ -63,6 +71,7 @@ Open Windows search, find "Terminal" and open it.
 ## Step 7: Verify the installation
 
 Type the below and hit enter
+
 ```sh
 python --version
 ```
