@@ -4,37 +4,30 @@ Total time: 5-10 minutes
 
 ## Overview
 
-- Step 1: Download the installer
-
-- Step 2: Run the installer
-
-- Step 3: Select correct options
-
-- Step 4: Click "Install Now"
-
-- Step 5: Wait for installation
-
-- Step 6: Open Windows Terminal
-
-- Step 7: Verify the installation
-
-- Step 8: Optional but recommended
+- [Step 1: Download the installer](#step-1-download-the-installer)
+- [Step 2: Run the installer](#step-2-run-the-installer)
+- [Step 3: Select correct options](#step-3-select-correct-options)
+- [Step 4: Start installation](#step-4-start-installation)
+- [Step 5: Wait for installation (2-5 minutes)](#step-5-wait-for-installation-2-5-minutes)
+- [Step 6: Open Windows Terminal](#step-6-open-windows-terminal)
+- [Step 7: Verify the installation](#step-7-verify-the-installation)
+- [Step 8: Disable path length limit (Optional but recommended)](#step-8-disable-path-length-limit-optional-but-recommended)
 
 ## Step 1: Download the installer
 
-Open [Python Releases for Windows - https://www.python.org/downloads/windows/](assets/install-python/https://www.python.org/downloads/windows/)
+Open [Python Releases for Windows - https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
 
-Download the 64-bit Windows Installer (under Stable Releases)
+Download the 64-bit Windows Installer (under Stable Releases).
 
 ![Website - Python Releases for Window - Including arrow](assets/install-python/1.png)
 
 ## Step 2: Run the installer
 
-Open Windows explorer (shortcut: Windows key + E)
+Open Windows explorer (shortcut: Windows key + E).
 
-Open Downloads
+Open Downloads.
 
-Double click on the installer to run it
+Double click on the installer to run it.
 
 ![Explorer - Downloads](assets/install-python/2.png)
 
@@ -44,25 +37,21 @@ Check both checkboxes at the bottom.
 
 ![Python Installer - Options to check](assets/install-python/3.png)
 
-## Step 4: Click "Install Now"
+## Step 4: Start installation
 
 ![Python Installer - Click "Install Now"](assets/install-python/4.png)
 
-Click yes:
+## Step 5: Wait for installation (2-5 minutes)
 
-![UAC - Accept](assets/install-python/UAC-1.png)
+Don't click on any more buttons once the installer finishes. It's not a problem if you do. It's just good to check the installation worked before moving on.
 
-## Step 5: Wait for installation
-
-Don't click on any more buttons once the installer finishes. (It's not a problem if you do. It's just good to check the installation worked before moving on).
-
-![Python Installer - Progress bar](assets/install-python/5.png)
-
-![Python Installer - Pause at Setup was successful](assets/install-python/6.png)
+![Python Installer - Progress bar + Pause symbol](assets/install-python/5.png)
 
 ## Step 6: Open Windows Terminal
 
-Open Windows search, find "Terminal" and open it.
+Open Windows search.
+
+Find and open "Terminal".
 
 ![Windows search - Terminal](assets/install-python/7.png)
 
@@ -70,24 +59,18 @@ Open Windows search, find "Terminal" and open it.
 
 ## Step 7: Verify the installation
 
-Type the below and hit enter
-
-```sh
-python --version
-```
+Type `python --version` and hit Enter.
 
 ![Terminal - Python Version](assets/install-python/9.png)
 
 The output should be "Python" followed by the version if the installation was successful.
 
-## Step 8: Optional but recommended
+## Step 8: Disable path length limit
 
-Reopen the open Python Installer and click
+> Optional, but recommended
+
+Switch back to the Python Installer and click "Disable path length limit".
 
 ![Python Installer - Disable path length limit](assets/install-python/10.png)
 
-Click yes:
-
-![UAC - Accept](assets/install-python/UAC-2.png)
-
-_Python installation complete!_
+### *Python installation complete!*
